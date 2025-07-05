@@ -152,12 +152,12 @@ graph TD
 ## 🎮 Usage Examples
 
 ### Basic Usage
-```python
-# Upload an image through the web interface
-# AI automatically detects: "Grilled Chicken", "Brown Rice", "Steamed Broccoli"
-# Enter quantities: "150g", "1 cup", "1 serving"
-# Get detailed calorie breakdown with total count
-```
+
+- Upload an image through the web interface
+- AI automatically detects: "Grilled Chicken", "Brown Rice", "Steamed Broccoli"
+- Enter quantities: "150g", "1 cup", "1 serving"
+- Get detailed calorie breakdown with total count
+
 
 ### Advanced Features
 - **Multi-food Recognition**: Detect multiple items in complex meals
@@ -286,4 +286,4 @@ flake8 app.py
 
 ---
 
-*Last updated: January 2025*
+*Last updated: July 2025*
